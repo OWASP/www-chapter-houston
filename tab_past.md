@@ -3,10 +3,11 @@ title: Past Events
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: past-events-tag
 ---
 
 ##Past Events
+
 2019
 OWASP Houston October Chapter Meeting
 When: Thursday, October 24, 2019
