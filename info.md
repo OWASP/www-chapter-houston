@@ -2,5 +2,5 @@
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](#) https://www.meetup.com/OWASP-Houston-Texas-Chapter/
 * [Social Link](#)-->
