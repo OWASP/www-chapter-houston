@@ -24,7 +24,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - We are in the process of scheduling the 2020 events.  The first event will most likely be the beginning of January.  Keep checking back for updates.
 - Everyone is welcome to join us at our chapter meetings.
 
-{info.md}
-
-{leaders.md}
 
