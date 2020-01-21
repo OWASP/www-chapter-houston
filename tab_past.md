@@ -6,9 +6,9 @@ order: 1
 tags: past-events-tag
 ---
 
-##Past Events
+## Past Events
 
-2019
+### 2019
 OWASP Houston October Chapter Meeting
 When: Thursday, October 24, 2019
 
@@ -54,7 +54,7 @@ Description: This month we will be joining with the Woodlands Hackers Associatio
 
 Note: This will not be a permanent location. We are still getting the chapter up and going and trying to finalize locations for events.
 
-2018
+## 2018
 Owasp Houston April Chapter Meeting
 When: Wed, April 25, 2018 6:30 PM – 8:30 PM
 
@@ -83,7 +83,7 @@ When organizations think of application security they typically think of technol
 Sponsor: Checkmarx
 
 
-2017
+## 2017
 Owasp Houston July Chapter Meeting
 When: Tuesday July, 2017 at 6:30 PM
 
@@ -128,10 +128,10 @@ We will be hosting a New Year kick-off event to get the year started. This is a 
 Sponsor: Alertlogic
 
 
-2016
+## 2016
 N/A
 
-2015
+## 2015
 Owasp Houston March Chapter Meeting
 When: Thursday, March 26, 2015 6:00 PM to 9:00 PM
 
@@ -141,7 +141,7 @@ Title: Happy Hour
 
 Welcome back to 2015 and our first event of the year. Now that Rodeo season is wrapping up what better way to reconnect with your AppSec friends than one of our Happy Hours.
 
-2014
+## 2014
 Owasp Houston December Chapter Meeting
 When: Wednesday, December 17, 2014 6:00 PM to 9:00 PM
 
@@ -151,7 +151,6 @@ Title: Happy Hour
 
 Season's greetings Houston, We wanted to end the year with a social event. Join OWASP Houston to talk security on December 17th at Okra Charity Saloon at 924 Congress St. in downtown at 6:00 PM this Wednesday. We will be discussing some of our plans for the 2015 year and changes to chapter leadership. When Houston was founded in 1836, the intersection at Congress and Main was the city’s primary intersection and shaped downtown Houston’s development. The bar, located at 924 Congress, initially opened as the Original Casino Saloon in 1882 and remained open until Prohibition. The original circle arch and barrel vault ceilings are still intact today.
 
-Back to Top
 
 Owasp Houston April Chapter Meeting
 When: Thursday, April 10, 2014 6:00 PM to 9:00 PM
@@ -209,7 +208,7 @@ Presentation 7PM-8PM
 Questions/Audience Participation 8PM-9PM
 
 
-2013
+## 2013
 Owasp Houston November Chapter Meeting
 When: Thursday, November 14, 2013 6:00 PM to 9:00 PM Where: Sheraton Suites Houston Galleria 2400 West Loop S Houston, TX
 
@@ -373,7 +372,7 @@ Join us on Thursday January 31st for an OWASP Houston Workshop. During this work
 
 Sponsors: Alertlogic & Imperva
 
-2012
+## 2012
 Owasp Houston March Chapter Meeting
 When: Monday, November 19, 2012 6:00 PM to 9:00 PM Where: Stag's Head Pub 2128 Portsmouth St · Houston, TX
 
