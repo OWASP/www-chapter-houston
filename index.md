@@ -2,8 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Houston
-tags: past-events-tag 
-tags: training-tag announcement-tag sponsor-tag
+tags: past-events-tag training-tag announcement-tag sponsor-tag
 level: 0
 region: United States
 auto-migrated: 0
