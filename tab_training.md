@@ -1,9 +1,12 @@
+---
 title: Training
 displaytext: Training Days
 layout: null
 tab: true
 order: 2
-tags: tab_training
+tags: training-tab
+---
+
 
 ### Training Days
 
