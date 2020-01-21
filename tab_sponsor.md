@@ -4,7 +4,7 @@ displaytext: Sponsorship
 layout: null
 tab: true
 order: 4
-tags: sponsor-tag
+tags: past-events-tag
 ---
 
 ### Sponsorship Opportunities
