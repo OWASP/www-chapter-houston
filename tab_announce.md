@@ -4,7 +4,7 @@ displaytext: Announcements
 layout: null
 tab: true
 order: 3
-tags: announcement-tag
+tags: past-events-tag
 ---
 
 ### Announcements
