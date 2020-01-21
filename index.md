@@ -2,7 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Houston
-tags: past-events-tag training-tag announcement-tag sponsor-tag
+tags: past-events-tag 
+tags: training-tag 
+tags: announcement-tag 
+tags: sponsor-tag
 
 level: 0
 
