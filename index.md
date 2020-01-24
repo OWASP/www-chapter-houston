@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Houston
 tags: past-events-tag
 level: 0
-region: United States
+region: North America
 auto-migrated: 0
 ---
 ## Welcome
