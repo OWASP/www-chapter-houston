@@ -5,7 +5,11 @@ title: OWASP Houston
 tags: past-events-tag
 level: 0
 region: North America
-auto-migrated: 0
+auto-migrated: 
+meetup-group: OWASP-Houston-Texas-Chapter
+country: USA
+postal-code: 77001
+
 ---
 ## Welcome
 The OWASP Houston chapter is currently meeting quarterly.  We are a group of security minded folks from many different areas of the industry.  Our current chapter includes penetration testers, coders, managers, engineers, and even some college students.  We welcome anyone who is interested in learning about web application security or anyone who would like to join.  Come on out and check out a meeting, you will find all levels of knowedge and skills so don't be shy even if you currently do not know about the topic.
