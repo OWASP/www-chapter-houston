@@ -7,5 +7,5 @@
 
 ### Houston Chapter Links
 * [Meetup](https://www.meetup.com/owasp-houston-texas-chapter/)
-* [Slack #chapter-owasp](https://app.slack.com/client/T04T40NHX/C05JEL94NS1/)
+* [Slack #chapter-houston](https://app.slack.com/client/T04T40NHX/C05JEL94NS1/)
 * [Youtube](https://www.youtube.com/@OWASPHouston-pk9vj)
