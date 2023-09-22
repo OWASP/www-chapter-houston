@@ -11,11 +11,9 @@ altfooter: true
 ---
 
 [Home Page](index.md)
-&nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
+&nbsp;&nbsp;&nbsp;[Chapter Leadership](leaders.md)
 &nbsp;&nbsp;&nbsp;<strong>Study Groups</strong>
 &nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
-&nbsp;&nbsp;&nbsp;[Sponsorship](sponsorship.md)
-&nbsp;&nbsp;&nbsp;[Event Archive](pasteventsarchive.md)
 
 
 ### Our Study Groups ###
