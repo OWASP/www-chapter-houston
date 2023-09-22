@@ -34,7 +34,7 @@ The first session is an introduction to <a href="https://owasp.org/www-project-a
 
 Future sessions will include lab setup and working through <a href="https://github.com/OWASP/crAPI">crAPI challenges.
 
-[API Security Session 1 Signup] https://www.meetup.com/owasp-houston-texas-chapter/events/296209716/)
+<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/296209716/">Study Group API Security Session 1</a>
 
 
 ----
