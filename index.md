@@ -22,9 +22,10 @@ The chapter is re-activated!
 
 ## Upcoming Events ##
 
-Our study group is starting.
+Our Study Group covering API Security is active.
+The second session covers lab setup and will be held online via Zoom on Monday, November 6, 2023 at 6:30 PM to 8:00 PM CST.
 
-<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/296209716/">Study Group API Security Session 1</a>
+<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/296859686/">OWASP Houston Chapter API Security Study Group Session 2- Lab Setup</a>
 
 We're in the process of scheduling other meetings and events.
 
