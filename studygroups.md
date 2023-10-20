@@ -30,11 +30,11 @@ altfooter: true
 
 We are covering API Security. It will last several months with end date TBD.
 
-The first session is an introduction to <a href="https://owasp.org/www-project-api-security/">API Security Top 10 2023</a>
+The first session was an introduction to <a href="https://owasp.org/www-project-api-security/">API Security Top 10 2023</a>
+The second session covers lab Setups.
 
-Future sessions will include lab setup and working through <a href="https://github.com/OWASP/crAPI">crAPI challenges.
 
-<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/296209716/">Study Group API Security Session 1</a>
+<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/296859686/">OWASP Houston Chapter API Security Study Group Session 2- Lab Setup</a>
 
 
 ----
