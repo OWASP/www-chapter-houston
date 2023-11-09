@@ -15,23 +15,23 @@ meetup-group: owasp-houston-texas-chapter
 
 ## Welcome
 
-The chapter is re-activated!
+Welcome to the Houston chapter homepage.
 
 
 <hr/>
 
+<hr/>
 ## Upcoming Events ##
+<hr>
 
-Our Study Group covering API Security is active.
-The second session covers lab setup and will be held online via Zoom on Monday, November 6, 2023 at 6:30 PM to 8:00 PM CST.
+### OWASP Houston Chapter API Security Study Group Session 3 - Exploring crAPI ###
 
-<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/296859686/">OWASP Houston Chapter API Security Study Group Session 2- Lab Setup</a>
+**When:** Monday, November 20, 2023 @ 6:30 PM - 8:00 PM CST
 
-We're in the process of scheduling other meetings and events.
+Starting with this session (#3), we will begin working with crAPI using the tools we installed in lesson 2. It will be held online via Zoom on Monday, November 20, 2023 at 6:30 PM to 8:00 PM CST.
 
-<hr/>
-
-
+RSVP:<br>
+<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297260466/">OWASP Houston Chapter API Security Study Group Session 3 - Exploring crAPI - Meetup</a>
 
 
 ## Participation
