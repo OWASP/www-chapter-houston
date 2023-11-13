@@ -26,13 +26,35 @@ Welcome to the Houston chapter homepage.
 
 ### OWASP Houston Chapter API Security Study Group Session 3 - Exploring crAPI ###
 
-**When:** Monday, November 20, 2023 @ 6:30 PM - 8:00 PM CST
+**When:**
+Monday, November 20, 2023 @ 6:30 PM - 8:00 PM CST
+
+**Where:**
+Online via Zoom
 
 Starting with this session (#3), we will begin working with crAPI using the tools we installed in lesson 2. It will be held online via Zoom on Monday, November 20, 2023 at 6:30 PM to 8:00 PM CST.
 
 RSVP:<br>
 <a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297260466/">OWASP Houston Chapter API Security Study Group Session 3 - Exploring crAPI - Meetup</a>
 
+
+### Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks ###
+
+**When:**
+Thursday, November 30, 2023 @ 4-6 PM
+
+**Where:**
+Kirby Ice House
+1015 Gessner Rd, Houston, TX 77055
+
+Please join us for the Houston AppSec Happy Hour from 4-6 PM on Thursday November 30th at Kirby Ice House located at 1015 Gessner Rd, Houston, TX 77055.
+
+This happy hour event is sponsored by Checkmarx and Orasi Saltworks who will be providing the drinks.
+
+We hope to see you there.
+
+RSVP:<br>
+<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297237891/">Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks - Meetup</a>
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
