@@ -50,8 +50,13 @@ Kirby Ice House
 Please join us for the Houston AppSec Happy Hour from 4-6 PM on Thursday November 30th at Kirby Ice House located at 1015 Gessner Rd, Houston, TX 77055.
 
 This happy hour event is sponsored by Checkmarx and Orasi Saltworks who will be providing the drinks.
-
 We hope to see you there.
+
+For more information on our sponsors, please visit their sites via the links below.
+
+<a href="https://checkmarx.com/">Checkmarx</a>
+
+<a href="https://www.saltworks.io">Orasi Saltworks</a>
 
 RSVP:<br>
 <a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297237891/">Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks - Meetup</a>
