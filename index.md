@@ -34,7 +34,7 @@ Online via Zoom
 
 Starting with this session (#3), we will begin working with crAPI using the tools we installed in lesson 2. It will be held online via Zoom on Monday, November 20, 2023 at 6:30 PM to 8:00 PM CST.
 
-RSVP:<br>
+**RSVP:**
 <a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297260466/">OWASP Houston Chapter API Security Study Group Session 3 - Exploring crAPI - Meetup</a>
 
 
@@ -58,7 +58,7 @@ For more information on our sponsors, please visit their sites via the links bel
 
 <a href="https://www.saltworks.io">Orasi Saltworks</a>
 
-RSVP:<br>
+**RSVP:**
 <a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297237891/">Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks - Meetup</a>
 
 ## Participation
