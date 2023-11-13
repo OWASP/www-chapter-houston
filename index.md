@@ -18,7 +18,6 @@ meetup-group: owasp-houston-texas-chapter
 Welcome to the Houston chapter homepage.
 
 
-<hr/>
 
 <hr/>
 ## Upcoming Events ##
@@ -37,6 +36,9 @@ Starting with this session (#3), we will begin working with crAPI using the tool
 **RSVP:**
 <a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297260466/">OWASP Houston Chapter API Security Study Group Session 3 - Exploring crAPI - Meetup</a>
 
+[back to top](#welcome)
+
+<hr>
 
 ### Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks ###
 
@@ -60,6 +62,10 @@ For more information on our sponsors, please visit their sites via the links bel
 
 **RSVP:**
 <a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297237891/">Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks - Meetup</a>
+
+[back to top](#welcome)
+
+<hr>
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
