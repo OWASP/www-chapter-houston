@@ -22,6 +22,7 @@ Welcome to the Houston chapter homepage.
 <hr/>
 
 ## Upcoming Events
+
 <hr>
 
 
@@ -48,6 +49,10 @@ For more information on our sponsors, please visit their sites via the links bel
 **RSVP:**
 <a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297237891/">Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks - Meetup</a>
 
+[back to top](#welcome)
+
+<hr>
+
 
 ### OWASP Houston Chapter API Security Study Group Session 4 - Continuing to explore crAPI ###
 
@@ -56,10 +61,6 @@ Next session TBD.
 
 **Where:**
 Online via Zoom
-
-[back to top](#welcome)
-
-<hr>
 
 [back to top](#welcome)
 
