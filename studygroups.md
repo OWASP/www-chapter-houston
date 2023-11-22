@@ -33,10 +33,9 @@ We are covering API Security. It will last several months with end date TBD.
 The first session was an introduction to <a href="https://owasp.org/www-project-api-security/">API Security Top 10 2023</a>
 
 The second session covered lab setup.
-<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/296859686/">OWASP Houston Chapter API Security Study Group Session 2- Lab Setup</a>
 
-In session three, we will begin working with crAPI using the tools we installed in lesson 2.
-<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297260466/">OWASP Houston Chapter API Security Study Group Session 3 - Exploring crAPI - Meetup</a>
+In session three, we started exploring crAPI using Firefox Web Developer Tools, ZAP, Postman, and curl.
 
+In session four, we will continue working with crAPI.
 
 ----
