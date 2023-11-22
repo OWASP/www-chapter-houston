@@ -20,25 +20,10 @@ Welcome to the Houston chapter homepage.
 
 
 <hr/>
-## Upcoming Events ##
+
+## Upcoming Events
 <hr>
 
-### OWASP Houston Chapter API Security Study Group Session 3 - Exploring crAPI ###
-
-**When:**
-Monday, November 20, 2023 @ 6:30 PM - 8:00 PM CST
-
-**Where:**
-Online via Zoom
-
-Starting with this session (#3), we will begin working with crAPI using the tools we installed in lesson 2. It will be held online via Zoom on Monday, November 20, 2023 at 6:30 PM to 8:00 PM CST.
-
-**RSVP:**
-<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297260466/">OWASP Houston Chapter API Security Study Group Session 3 - Exploring crAPI - Meetup</a>
-
-[back to top](#welcome)
-
-<hr>
 
 ### Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks ###
 
@@ -62,6 +47,19 @@ For more information on our sponsors, please visit their sites via the links bel
 
 **RSVP:**
 <a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297237891/">Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks - Meetup</a>
+
+
+### OWASP Houston Chapter API Security Study Group Session 4 - Continuing to explore crAPI ###
+
+**When:**
+Next session TBD.
+
+**Where:**
+Online via Zoom
+
+[back to top](#welcome)
+
+<hr>
 
 [back to top](#welcome)
 
