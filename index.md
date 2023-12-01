@@ -26,28 +26,6 @@ Welcome to the Houston chapter homepage.
 <hr>
 
 
-### Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks ###
-
-**When:**
-Thursday, November 30, 2023 @ 4-6 PM
-
-**Where:**
-Kirby Ice House
-1015 Gessner Rd, Houston, TX 77055
-
-Please join us for the Houston AppSec Happy Hour from 4-6 PM on Thursday November 30th at Kirby Ice House located at 1015 Gessner Rd, Houston, TX 77055.
-
-This happy hour event is sponsored by Checkmarx and Orasi Saltworks who will be providing the drinks.
-We hope to see you there.
-
-For more information on our sponsors, please visit their sites via the links below.
-
-<a href="https://checkmarx.com/">Checkmarx</a>
-
-<a href="https://www.saltworks.io">Orasi Saltworks</a>
-
-**RSVP:**
-<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/297237891/">Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks - Meetup</a>
 
 [back to top](#welcome)
 
@@ -57,7 +35,7 @@ For more information on our sponsors, please visit their sites via the links bel
 ### OWASP Houston Chapter API Security Study Group Session 4 - Continuing to explore crAPI ###
 
 **When:**
-Next session TBD.
+We are taking a break for the holidays, but will resume in Monday January 8, 2024. A detailed study guide will be available by the end of December. There will also be more videos added to our YouTube channel, so please subscribe to get those updates.
 
 **Where:**
 Online via Zoom
