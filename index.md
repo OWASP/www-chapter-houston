@@ -35,7 +35,7 @@ Welcome to the Houston chapter homepage.
 ### OWASP Houston Chapter API Security Study Group Session 4 - Continuing to explore crAPI ###
 
 **When:**
-We are taking a break for the holidays, but will resume in Monday January 8, 2024. A detailed study guide will be available by the end of December. There will also be more videos added to our YouTube channel, so please subscribe to get those updates.
+We are taking a break for the holidays, but will resume on Monday January 8, 2024. A detailed study guide will be available by the end of December. There will also be more videos added to our YouTube channel, so please subscribe to get those updates.
 
 **Where:**
 Online via Zoom
