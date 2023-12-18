@@ -12,6 +12,7 @@ meetup-group: owasp-houston-texas-chapter
 <strong>Home Page</strong>
 &nbsp;&nbsp;&nbsp;[Chapter Leadership](leaders.md)
 &nbsp;&nbsp;&nbsp;[Study Groups](studygroups.md)
+&nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
 
 ## Welcome
 
