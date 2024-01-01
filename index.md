@@ -33,13 +33,17 @@ Welcome to the Houston chapter homepage.
 <hr>
 
 
-### OWASP Houston Chapter API Security Study Group Session 4 - Continuing to explore crAPI ###
+### OWASP Houston Chapter API Security Study Group Session 4 - crAPI Challenges ###
+
+Starting with this session, we will start working with the actual challenges listed on the crAPI page. We will also discuss the Postman collection and how that can be used to better understand how the challenges can be completed. In later sessions, we will look at how to create your own collection by proxying the traffic.
 
 **When:**
-We are taking a break for the holidays, but will resume on Monday January 8, 2024. A detailed study guide will be available by the end of December. There will also be more videos added to our YouTube channel, so please subscribe to get those updates.
+Monday January 8, 2024
+6:30-8:00PM Central
 
 **Where:**
 Online via Zoom
+https://www.meetup.com/owasp-houston-texas-chapter/events/298262458/
 
 [back to top](#welcome)
 
