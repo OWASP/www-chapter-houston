@@ -43,7 +43,7 @@ Monday January 8, 2024
 
 **Where:**
 Online via Zoom
-https://www.meetup.com/owasp-houston-texas-chapter/events/298262458/
+<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/298262458/">Session 4 - crAPI Challenges</a>
 
 [back to top](#welcome)
 
