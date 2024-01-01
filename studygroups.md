@@ -36,6 +36,6 @@ The second session covered lab setup.
 
 In session three, we started exploring crAPI using Firefox Web Developer Tools, ZAP, Postman, and curl.
 
-In session four, we will continue working with crAPI.
+<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/298262458/">Session 4 - crAPI Challenges</a>
 
 ----
