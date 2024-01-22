@@ -30,12 +30,6 @@ altfooter: true
 
 We are covering API Security. It will last several months with end date TBD.
 
-The first session was an introduction to <a href="https://owasp.org/www-project-api-security/">API Security Top 10 2023</a>
-
-The second session covered lab setup.
-
-In session three, we started exploring crAPI using Firefox Web Developer Tools, ZAP, Postman, and curl.
-
-<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/298262458/">Session 4 - crAPI Challenges</a>
+The next session will be held in early February. Prior sessions have been conducted on Monday nights, but the time may be adjusted to around lunch time on a Tuesday, Wednesday, or Thursday based on feedback provided on the chapter's Slack channel.
 
 ----
