@@ -24,8 +24,35 @@ Welcome to the Houston chapter homepage.
 
 ## Upcoming Events
 
-<hr>
+### OWASP Houston Chapter Meeting January 2024 ###
 
+**When:** Wednesday January 31, 2024 @ 1:00 PM - 2:00 PM
+
+**Where:** Online via Zoom
+
+**Please RSVP on Meetup:** <a href="https://www.meetup.com/owasp-houston-texas-chapter/events/298722891/">OWASP Houston Chapter Meeting January 2024</a>
+
+**Presentation:** The Rise of API-Led Cyberattacks
+
+API-led cyberattacks lead to data breaches, customer data leaks, and privacy-driven lawsuits around the world, which means protecting all APIs is mission-critical. Traditional tactics like web application firewalls won’t work for APIs because they have limits to the level of protection they can provide. The challenge of securing APIs is due to two things. First, APIs are built differently making them harder to protect for traditional security solutions looking just at the network layer vs the source code and two teams don’t have the right tools required for full API discovery to truly know what APIs are in use.
+
+
+- Why API security efforts need to incorporate both 3rd party and internal API traffic
+- What’s causing the surge of API-led attacks
+- Why have traditional tools not maintained the sophistication needed to protect APIs in flight
+- Why teams need to locate and catalog every single API for true auditability
+- Q&A
+
+<blockquote> 
+
+</blockquote>
+
+**Speaker:** Dr. Anirban Banerjee
+
+Dr. Anirban Banerjee is the CEO and Co-founder of <a href="https://www.riscosity.com/">Riscosity</a>, a data flow security platform.
+
+
+Before founding Riscosity, he founded two security startups that were acquired by Delinea and Cloudflare. Additionally, he has authored 15 scientific papers, has 8 patents, and received 2 grants from the National Science Foundation. Dr. Banerjee is an industry expert in security and compliance, malware analysis, software supply chain security, data privacy, and third-party data observability.
 
 
 [back to top](#welcome)
@@ -33,17 +60,15 @@ Welcome to the Houston chapter homepage.
 <hr>
 
 
-### OWASP Houston Chapter API Security Study Group Session 4 - crAPI Challenges ###
+### OWASP Houston Chapter API Security Study Group Session 5 - continuing with crAPI Challenges ###
 
-Starting with this session, we will start working with the actual challenges listed on the crAPI page. We will also discuss the Postman collection and how that can be used to better understand how the challenges can be completed. In later sessions, we will look at how to create your own collection by proxying the traffic.
+The next session will be held in early February. Prior sessions have been conducted on Monday nights, but the time may be adjusted to around lunch time on a Tuesday, Wednesday, or Thursday based on feedback provided on the chapter's Slack channel.
 
 **When:**
-Monday January 8, 2024
-6:30-8:00PM Central
+TBD
 
 **Where:**
 Online via Zoom
-<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/298262458/">Session 4 - crAPI Challenges</a>
 
 [back to top](#welcome)
 
