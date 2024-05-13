@@ -34,7 +34,7 @@ Welcome to the Houston chapter homepage.
 
 ### OWASP Houston Chapter API Security Study Group Session 5 - continuing with crAPI Challenges ###
 
-The next session will be held in early February. Prior sessions have been conducted on Monday nights, but the time may be adjusted to around lunch time on a Tuesday, Wednesday, or Thursday based on feedback provided on the chapter's Slack channel.
+We are restarting the study group Monday June 3. To make it easier for more people to attend, we will repeat the session twice a week covering the same material. There will be an evening session each Monday night from 7-8 PM. We will have a second session during lunch on Friday 12-1.
 
 **When:**
 TBD
