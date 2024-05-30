@@ -28,6 +28,6 @@ altfooter: true
 
 ### Current Study Group Topic ###
 
-We are restarting the study group Monday June 3. To make it easier for more people to attend, we will repeat the session twice a week covering the same material. There will be an evening session each Monday night from 7-8 PM. We will have a second session during lunch on Friday 12-1.
+We are restarting the study group Monday June 10. To make it easier for more people to attend, we will repeat the session twice a week covering the same material. There will be an evening session each Monday night from 7-8 PM. We will have a second session during lunch on Friday 12-1.
 
 ----
