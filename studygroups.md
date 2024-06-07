@@ -28,6 +28,19 @@ altfooter: true
 
 ### Current Study Group Topic ###
 
-We are restarting the study group Monday June 10. To make it easier for more people to attend, we will repeat the session twice a week covering the same material. There will be an evening session each Monday night from 7-8 PM. We will have a second session during lunch on Friday 12-1.
+Continuing with crAPI Challenges using ZAP, Browser Dev Tools, Postman, PowerShell, and Python.
+
+There are now two options for meeting times, but the same information will be covered.
+
+- OWASP Houston Chapter API Security Study Group - Lunchtime Option <br>
+Friday, June 14, 2024 <br>
+12:00 PM to 1:00 PM CDT <br>
+https://www.meetup.com/owasp-houston-texas-chapter/events/301508161 <br>
+
+- OWASP Houston Chapter API Security Study Group - Evening Option <br>
+Monday, June 17, 2024 <br>
+7:00 PM to 8:00 PM CDT <br>
+https://www.meetup.com/owasp-houston-texas-chapter/events/301508128 <br>
+
 
 ----
