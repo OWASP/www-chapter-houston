@@ -32,7 +32,7 @@ Welcome to the Houston chapter homepage.
 <hr>
 
 
-### OWASP Houston Chapter API Security Study Group Session 5 - continuing with crAPI Challenges ###
+### OWASP Houston Chapter API Security Study Group Session 6 - continuing with crAPI Challenges ###
 
 Continuing with crAPI Challenges using ZAP, Browser Dev Tools, Postman, PowerShell, and Python.
 
@@ -40,14 +40,10 @@ There are now two options for meeting times, but the same information will be co
 
 **When:**
 - OWASP Houston Chapter API Security Study Group - Lunchtime Option <br>
-Friday, June 14, 2024 <br>
-12:00 PM to 1:00 PM CDT <br>
-https://www.meetup.com/owasp-houston-texas-chapter/events/301508161 <br>
+TBD<br>
 
 - OWASP Houston Chapter API Security Study Group - Evening Option <br>
-Monday, June 17, 2024 <br>
-7:00 PM to 8:00 PM CDT <br>
-https://www.meetup.com/owasp-houston-texas-chapter/events/301508128 <br>
+TBD<br>
 
 **Where:**
 Online via Zoom
