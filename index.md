@@ -18,35 +18,32 @@ meetup-group: owasp-houston-texas-chapter
 
 Welcome to the Houston chapter homepage.
 
-
-
 <hr/>
 
 ## Upcoming Events
 
 
+### OWASP Houston Chapter Meeting August 2024  ###
 
+**When:** Wednesday, August 21, 2024 12:30 PM to 1:15 PM CDT<br>
 
-[back to top](#welcome)
+**Presentation: Meaningful Audits - More than Just a Checklist**
 
-<hr>
+Instead of just filling out a spreadsheet and checking off the boxes, audits can actually help in meaningful ways. When done right, you have a better understanding of your environment, security gaps, and just how prepared you are.
 
+Please come listen to Mark as he shares his insight on making audits meaningful.
 
-### OWASP Houston Chapter API Security Study Group Session 6 - continuing with crAPI Challenges ###
-
-Continuing with crAPI Challenges using ZAP, Browser Dev Tools, Postman, PowerShell, and Python.
-
-There are now two options for meeting times, but the same information will be covered.
-
-**When:**
-- OWASP Houston Chapter API Security Study Group - Lunchtime Option <br>
-TBD<br>
-
-- OWASP Houston Chapter API Security Study Group - Evening Option <br>
-TBD<br>
+**Speaker:** 
+Mark Adams
+<br>
+Mark is an IT security professional with over 30 years of technology experience including several years in the Big Four. His range of experience includes risk management, technology strategy, IT security, data privacy, and regulatory compliance. He is also the creator of an online Cybersecurity bootcamp, and he teaches certifcation prep courses to military personnel.
 
 **Where:**
 Online via Zoom
+
+RSVP:<br>
+<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/302673435/">Meetup</a>
+<br>
 
 [back to top](#welcome)
 
