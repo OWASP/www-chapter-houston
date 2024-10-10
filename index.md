@@ -22,23 +22,7 @@ Welcome to the Houston chapter homepage.
 
 ## Upcoming Events
 
-### Houston Security Professionals Happy Hour September 2024 - Sponsored by Salvador Technologies 2024  ###
-
-**When:** Wednesday, September 25, 2024 6:30 PM to 7:30 PM CDT<br>
-
-Please join us at Monkey's Tail for a Happy Hour sponsored by Salvador Technologies.
-
-Information from our sponsor:
-https://www.salvador-tech.com/
-Salvador addresses a crucial problem concerning operational continuity and cyber attack recovery for mission critical systems, eliminating costly, inconvenient, or even dangerous downtime. Our Security Failover technology is redefining the essence of ICS & OT Resilience, with our 30-second Recovery.
-
-**Where:**
-Monkey’s Tail
-5802 Fulton St, Houston, TX 77009
-
-RSVP:<br>
-<a href="https://www.meetup.com/owasp-houston-texas-chapter/events/303064569/">Meetup</a>
-<br>
+No events are currently scheduled. Please join our group on Meetup to stay up to date.
 
 
 [back to top](#welcome)
