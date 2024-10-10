@@ -28,14 +28,7 @@ altfooter: true
 
 ### Current Study Group Topic ###
 
-Continuing with crAPI Challenges using ZAP, Browser Dev Tools, Postman, PowerShell, and Python.
-
-There are now two options for meeting times, but the same information will be covered.
-
-- OWASP Houston Chapter API Security Study Group - Lunchtime Option <br>
-TBD <br>
-
-- OWASP Houston Chapter API Security Study Group - Evening Option <br>
-TBD <br>
+Next study group session and topic is not yet determined.
+<br>
 
 ----
