@@ -12,6 +12,16 @@
 ### 2024 ###
 ---------------
 
+### Houston Security Professionals Happy Hour September 2024 - Sponsored by Salvador Technologies 2024  ###
+
+**When:** Wednesday, September 25, 2024 6:30 PM to 7:30 PM CDT<br>
+
+Please join us at Monkey's Tail for a Happy Hour sponsored by Salvador Technologies.
+
+Information from our sponsor:
+https://www.salvador-tech.com/
+Salvador addresses a crucial problem concerning operational continuity and cyber attack recovery for mission critical systems, eliminating costly, inconvenient, or even dangerous downtime. Our Security Failover technology is redefining the essence of ICS & OT Resilience, with our 30-second Recovery.
+
 ### OWASP Houston Chapter Meeting August 2024  ###
 
 **When:** Wednesday, August 21, 2024 12:30 PM to 1:15 PM CDT<br>
