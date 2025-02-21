@@ -30,8 +30,6 @@ Welcome to the Houston chapter homepage.
 
 This will be an informal meeting where people on the west side can get together for a little bit. No formal agenda but hopefully we can find volunteers who are willing to start leading events.
 
-If you would like to host something similar in your part of town, please add your recommendations in the comments.
-
 Main Event is family friendly, so you can combine the meeting with some family game time.
 
 24401 Katy Freeway, Katy, TX 77494
