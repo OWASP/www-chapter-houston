@@ -5,9 +5,25 @@
 
 ## Past Events ##
 
+[2025](#2025) 
 [2024](#2024) 
 [2023](#2023) 
 
+
+### 2025 ###
+---------------
+
+### OWASP Houston Chapter In-person Meetup at Main Event Katy ###
+
+**When:** Monday, March 3, 2025 @ 6:30 PM to 8:00 PM<br>
+
+<br>
+
+This will be an informal meeting where people on the west side can get together for a little bit. No formal agenda but hopefully we can find volunteers who are willing to start leading events.
+
+Main Event is family friendly, so you can combine the meeting with some family game time.
+
+24401 Katy Freeway, Katy, TX 77494
 
 ### 2024 ###
 ---------------
