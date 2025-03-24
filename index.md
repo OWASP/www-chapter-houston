@@ -22,7 +22,9 @@ Welcome to the Houston chapter homepage.
 
 ## Upcoming Events
 
-April Meeting TBA by March 19
+April InfoSec Professionals Happy Hour
+Tuesday April 15 from 6:45 - 8:15 PM
+Location TBA but will most likely be around Sugarland area. Sponsorship will be finalized by March 31.
 
 <br><br>
 [back to top](#welcome)
