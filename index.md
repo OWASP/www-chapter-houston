@@ -22,16 +22,15 @@ Welcome to the Houston chapter homepage.
 
 ## Upcoming Events
 
-April InfoSec Professionals Happy Hour
-Tuesday April 15 from 6:45 - 8:15 PM
-Location TBA but will most likely be around Sugarland area. Sponsorship will be finalized by March 31.
+### April InfoSec Professionals Happy Hour
 
+#### When: Tuesday April 15 from 6:45 - 8:15 PM
+
+#### Where: [Texas Biergarten](https://www.texasbiergarten.com/).
+6302 Hwy 6, Suite Q Missouri City, TX 77459
+
+#### Sponsor: [Allure Security](https://alluresecurity.com/)
 <br><br>
-[back to top](#welcome)
-
-<hr>
-
-
 [back to top](#welcome)
 
 <hr>
