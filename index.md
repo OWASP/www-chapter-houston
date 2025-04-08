@@ -24,6 +24,8 @@ Welcome to the Houston chapter homepage.
 
 ### April InfoSec Professionals Happy Hour
 
+Please join us as we get together for our April in person meetup. We will talk about potential topics for the upcoming meetings and determine the best place to meet for May. The goal is to have a combination of social and technical meetings once we have established some chapter momentum.
+
 #### When: Tuesday April 15 from 6:45 - 8:15 PM
 
 #### Where: [Texas Biergarten](https://www.texasbiergarten.com/)
