@@ -9,34 +9,40 @@
 [2024](#2024) 
 [2023](#2023) 
 
-
-### 2025 ###
 ---------------
+### 2025 ###
+<hr>
+
+### April InfoSec Professionals Happy Hour ###
+
+Please join us as we get together for our April in person meetup. We will talk about potential topics for the upcoming meetings and determine the best place to meet for May. The goal is to have a combination of social and technical meetings once we have established some chapter momentum.
+
+Tuesday April 15 from 6:45 - 8:15 PM
+
+#### Sponsor: [Allure Security](https://alluresecurity.com/)
+
+Allure Security specializes in online brand protection, offering services to detect and dismantle fraudulent websites, social media accounts, and mobile applications that impersonate legitimate brands. Originating from a DARPA-funded research lab at Columbia University, the company leverages advanced artificial intelligence to identify and neutralize online scams before they can harm consumers. Allure Security works with 250+ customers with a primary focus on financial services and retail. 
+
 
 ### OWASP Houston Chapter In-person Meetup at Main Event Katy ###
 
 **When:** Monday, March 3, 2025 @ 6:30 PM to 8:00 PM<br>
 
-<br>
-
 This will be an informal meeting where people on the west side can get together for a little bit. No formal agenda but hopefully we can find volunteers who are willing to start leading events.
 
 Main Event is family friendly, so you can combine the meeting with some family game time.
 
-24401 Katy Freeway, Katy, TX 77494
+<br>
 
-### 2024 ###
 ---------------
+### 2024 ###
+<hr>
 
 ### Houston Security Professionals Happy Hour September 2024 - Sponsored by Salvador Technologies 2024  ###
 
 **When:** Wednesday, September 25, 2024 6:30 PM to 7:30 PM CDT<br>
 
-Please join us at Monkey's Tail for a Happy Hour sponsored by Salvador Technologies.
-
-Information from our sponsor:
-https://www.salvador-tech.com/
-Salvador addresses a crucial problem concerning operational continuity and cyber attack recovery for mission critical systems, eliminating costly, inconvenient, or even dangerous downtime. Our Security Failover technology is redefining the essence of ICS & OT Resilience, with our 30-second Recovery.
+#### Sponsor: [Salvador Technologies](https://www.salvador-tech.com/)
 
 ### OWASP Houston Chapter Meeting August 2024  ###
 
@@ -53,11 +59,7 @@ Mark Adams
 <br>
 Mark is an IT security professional with over 30 years of technology experience including several years in the Big Four. His range of experience includes risk management, technology strategy, IT security, data privacy, and regulatory compliance. He is also the creator of an online Cybersecurity bootcamp, and he teaches certifcation prep courses to military personnel.
 
-**Recording:**
-
-
-<br>
-<a href="https://youtu.be/LJ8GsWzwD-Y">YouTube</a>
+#### [Recording on chapter YouTube channel ](https://youtu.be/LJ8GsWzwD-Y)
 <br>
 
 
@@ -91,9 +93,11 @@ Dr. Anirban Banerjee is the CEO and Co-founder of <a href="https://www.riscosity
 
 Before founding Riscosity, he founded two security startups that were acquired by Delinea and Cloudflare. Additionally, he has authored 15 scientific papers, has 8 patents, and received 2 grants from the National Science Foundation. Dr. Banerjee is an industry expert in security and compliance, malware analysis, software supply chain security, data privacy, and third-party data observability.
 
+<br>
 
-### 2023 ###
 ---------------
+### 2023 ###
+<hr>
 ### Houston AppSec Happy Hour sponsored by Checkmarx and Orasi Saltworks ###
 
 **When:**
