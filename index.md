@@ -22,20 +22,7 @@ Welcome to the Houston chapter homepage.
 
 ## Upcoming Events
 
-### April InfoSec Professionals Happy Hour
-
-Please join us as we get together for our April in person meetup. We will talk about potential topics for the upcoming meetings and determine the best place to meet for May. The goal is to have a combination of social and technical meetings once we have established some chapter momentum.
-
-#### When: Tuesday April 15 from 6:45 - 8:15 PM
-
-#### Where: [Texas Biergarten](https://www.texasbiergarten.com/)
-6302 Hwy 6, Suite Q Missouri City, TX 77459
-
-#### Sponsor: [Allure Security](https://alluresecurity.com/)
-
-Allure Security specializes in online brand protection, offering services to detect and dismantle fraudulent websites, social media accounts, and mobile applications that impersonate legitimate brands. Originating from a DARPA-funded research lab at Columbia University, the company leverages advanced artificial intelligence to identify and neutralize online scams before they can harm consumers. Allure Security works with 250+ customers with a primary focus on financial services and retail. 
-
-#### [Meetup RSVP](https://www.meetup.com/owasp-houston-texas-chapter/events/307183757/)
+### Please check back soon as we are currently determining which speaker and topic will be next.
 
 <br><br>
 [back to top](#welcome)
