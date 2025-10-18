@@ -1,0 +1,30 @@
+community:
+  - name: chapter-houston
+    platform: slack
+    url: https://owasp.slack.com/archives/C05JEL94NS1
+leaders:
+  - name: Joseph Konieczka
+    email: joseph.konieczka@owasp.org
+    github: josephkonieczka
+  - name: Ramalo Singh
+    email: ramalo.singh@owasp.org
+  - name: Jacob Lawther
+    email: jacob.lawther@owasp.org
+location:
+  country: United States
+  country_code: US
+  region: Texas
+  city: Houston
+  latitude: 29.7589382
+  longitude: -95.3676974
+meetup_group: owasp-houston-texas-chapter
+name: OWASP Houston
+repositories:
+  - name: www-chapter-houston
+    url: https://github.com/OWASP/www-chapter-houston
+    description: OWASP Foundation Web Repository
+tags:
+  - houston
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-houston
