@@ -28,7 +28,6 @@ altfooter: true
 
 ## Current Study Group Topic ##
 
-### Power up with PowerShell ###
 TBD
 
 ### When ###
